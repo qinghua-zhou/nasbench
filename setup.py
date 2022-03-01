@@ -23,7 +23,7 @@ setuptools.setup(
     name='nasbench',
     version='1.0',
     packages=setuptools.find_packages(),
-    install_requires=[
-        'tensorflow>=1.12.0',
-    ]
+#     install_requires=[
+#         'tensorflow>=1.12.0',
+#     ]
 )
